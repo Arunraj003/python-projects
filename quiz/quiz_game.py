@@ -47,7 +47,7 @@ else:
     print("Incorrect")
 
 
-print("You had Scored" + str(score))
+print("You had Scored" + str(score) )
 print("You had Scored" + str((score / 4) * 100) + "%")
 
 
